@@ -1,2 +1,2 @@
-# principles-of-ds-cw
-Principles of Data Science Course Work 001
+# Principles of Data Science Course Work
+Principles of Data Science Course Work
