@@ -4,5 +4,8 @@ ETL & EDA Coursework Progress Log
 - Public repositary created
 - Created PROGRESS.md to track daily progress
 - Report document created
+- Created AWS Root Account
+- Created AWS Admin User Account
+- Enabled AWS Billing Budget Alerts
 
 
