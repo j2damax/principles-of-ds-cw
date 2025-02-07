@@ -8,4 +8,7 @@ ETL & EDA Coursework Progress Log
 - Created AWS Admin User Account
 - Enabled AWS Billing Budget Alerts
 
+07 Feb 2025:
+- Created AWS S3 bucket and uploaded raw CSV file to S3 bucket
+ 
 
